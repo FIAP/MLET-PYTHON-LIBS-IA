@@ -1,0 +1,402 @@
+[
+    {
+      "data": "2024-02-20T00:00:00",
+      "preco_fechamento": 402.79
+    },
+    {
+      "data": "2024-02-21T00:00:00",
+      "preco_fechamento": 402.18
+    },
+    {
+      "data": "2024-02-22T00:00:00",
+      "preco_fechamento": 411.65
+    },
+    {
+      "data": "2024-02-23T00:00:00",
+      "preco_fechamento": 410.34
+    },
+    {
+      "data": "2024-02-26T00:00:00",
+      "preco_fechamento": 407.54
+    },
+    {
+      "data": "2024-02-27T00:00:00",
+      "preco_fechamento": 407.48
+    },
+    {
+      "data": "2024-02-28T00:00:00",
+      "preco_fechamento": 407.72
+    },
+    {
+      "data": "2024-02-29T00:00:00",
+      "preco_fechamento": 413.64
+    },
+    {
+      "data": "2024-03-01T00:00:00",
+      "preco_fechamento": 415.5
+    },
+    {
+      "data": "2024-03-04T00:00:00",
+      "preco_fechamento": 414.92
+    },
+    {
+      "data": "2024-03-05T00:00:00",
+      "preco_fechamento": 402.65
+    },
+    {
+      "data": "2024-03-06T00:00:00",
+      "preco_fechamento": 402.09
+    },
+    {
+      "data": "2024-03-07T00:00:00",
+      "preco_fechamento": 409.14
+    },
+    {
+      "data": "2024-03-08T00:00:00",
+      "preco_fechamento": 406.22
+    },
+    {
+      "data": "2024-03-11T00:00:00",
+      "preco_fechamento": 404.52
+    },
+    {
+      "data": "2024-03-12T00:00:00",
+      "preco_fechamento": 415.28
+    },
+    {
+      "data": "2024-03-13T00:00:00",
+      "preco_fechamento": 415.1
+    },
+    {
+      "data": "2024-03-14T00:00:00",
+      "preco_fechamento": 425.22
+    },
+    {
+      "data": "2024-03-15T00:00:00",
+      "preco_fechamento": 416.42
+    },
+    {
+      "data": "2024-03-18T00:00:00",
+      "preco_fechamento": 417.32
+    },
+    {
+      "data": "2024-03-19T00:00:00",
+      "preco_fechamento": 421.41
+    },
+    {
+      "data": "2024-03-20T00:00:00",
+      "preco_fechamento": 425.23
+    },
+    {
+      "data": "2024-03-21T00:00:00",
+      "preco_fechamento": 429.37
+    },
+    {
+      "data": "2024-03-22T00:00:00",
+      "preco_fechamento": 428.74
+    },
+    {
+      "data": "2024-03-25T00:00:00",
+      "preco_fechamento": 422.86
+    },
+    {
+      "data": "2024-03-26T00:00:00",
+      "preco_fechamento": 421.65
+    },
+    {
+      "data": "2024-03-27T00:00:00",
+      "preco_fechamento": 421.43
+    },
+    {
+      "data": "2024-03-28T00:00:00",
+      "preco_fechamento": 420.72
+    },
+    {
+      "data": "2024-04-01T00:00:00",
+      "preco_fechamento": 424.57
+    },
+    {
+      "data": "2024-04-02T00:00:00",
+      "preco_fechamento": 421.44
+    },
+    {
+      "data": "2024-04-03T00:00:00",
+      "preco_fechamento": 420.45
+    },
+    {
+      "data": "2024-04-04T00:00:00",
+      "preco_fechamento": 417.88
+    },
+    {
+      "data": "2024-04-05T00:00:00",
+      "preco_fechamento": 425.52
+    },
+    {
+      "data": "2024-04-08T00:00:00",
+      "preco_fechamento": 424.59
+    },
+    {
+      "data": "2024-04-09T00:00:00",
+      "preco_fechamento": 426.28
+    },
+    {
+      "data": "2024-04-10T00:00:00",
+      "preco_fechamento": 423.26
+    },
+    {
+      "data": "2024-04-11T00:00:00",
+      "preco_fechamento": 427.93
+    },
+    {
+      "data": "2024-04-12T00:00:00",
+      "preco_fechamento": 421.9
+    },
+    {
+      "data": "2024-04-15T00:00:00",
+      "preco_fechamento": 413.64
+    },
+    {
+      "data": "2024-04-16T00:00:00",
+      "preco_fechamento": 414.58
+    },
+    {
+      "data": "2024-04-17T00:00:00",
+      "preco_fechamento": 411.84
+    },
+    {
+      "data": "2024-04-18T00:00:00",
+      "preco_fechamento": 404.27
+    },
+    {
+      "data": "2024-04-19T00:00:00",
+      "preco_fechamento": 399.12
+    },
+    {
+      "data": "2024-04-22T00:00:00",
+      "preco_fechamento": 400.96
+    },
+    {
+      "data": "2024-04-23T00:00:00",
+      "preco_fechamento": 407.57
+    },
+    {
+      "data": "2024-04-24T00:00:00",
+      "preco_fechamento": 409.06
+    },
+    {
+      "data": "2024-04-25T00:00:00",
+      "preco_fechamento": 399.04
+    },
+    {
+      "data": "2024-04-26T00:00:00",
+      "preco_fechamento": 406.32
+    },
+    {
+      "data": "2024-04-29T00:00:00",
+      "preco_fechamento": 402.25
+    },
+    {
+      "data": "2024-04-30T00:00:00",
+      "preco_fechamento": 389.33
+    },
+    {
+      "data": "2024-05-01T00:00:00",
+      "preco_fechamento": 394.94
+    },
+    {
+      "data": "2024-05-02T00:00:00",
+      "preco_fechamento": 397.84
+    },
+    {
+      "data": "2024-05-03T00:00:00",
+      "preco_fechamento": 406.66
+    },
+    {
+      "data": "2024-05-06T00:00:00",
+      "preco_fechamento": 413.54
+    },
+    {
+      "data": "2024-05-07T00:00:00",
+      "preco_fechamento": 409.34
+    },
+    {
+      "data": "2024-05-08T00:00:00",
+      "preco_fechamento": 410.54
+    },
+    {
+      "data": "2024-05-09T00:00:00",
+      "preco_fechamento": 412.32
+    },
+    {
+      "data": "2024-05-10T00:00:00",
+      "preco_fechamento": 414.74
+    },
+    {
+      "data": "2024-05-13T00:00:00",
+      "preco_fechamento": 413.72
+    },
+    {
+      "data": "2024-05-14T00:00:00",
+      "preco_fechamento": 416.56
+    },
+    {
+      "data": "2024-05-15T00:00:00",
+      "preco_fechamento": 423.08
+    },
+    {
+      "data": "2024-05-16T00:00:00",
+      "preco_fechamento": 420.99
+    },
+    {
+      "data": "2024-05-17T00:00:00",
+      "preco_fechamento": 420.21
+    },
+    {
+      "data": "2024-05-20T00:00:00",
+      "preco_fechamento": 425.34
+    },
+    {
+      "data": "2024-05-21T00:00:00",
+      "preco_fechamento": 429.04
+    },
+    {
+      "data": "2024-05-22T00:00:00",
+      "preco_fechamento": 430.52
+    },
+    {
+      "data": "2024-05-23T00:00:00",
+      "preco_fechamento": 427
+    },
+    {
+      "data": "2024-05-24T00:00:00",
+      "preco_fechamento": 430.16
+    },
+    {
+      "data": "2024-05-28T00:00:00",
+      "preco_fechamento": 430.32
+    },
+    {
+      "data": "2024-05-29T00:00:00",
+      "preco_fechamento": 429.17
+    },
+    {
+      "data": "2024-05-30T00:00:00",
+      "preco_fechamento": 414.67
+    },
+    {
+      "data": "2024-05-31T00:00:00",
+      "preco_fechamento": 415.13
+    },
+    {
+      "data": "2024-06-03T00:00:00",
+      "preco_fechamento": 413.52
+    },
+    {
+      "data": "2024-06-04T00:00:00",
+      "preco_fechamento": 416.07
+    },
+    {
+      "data": "2024-06-05T00:00:00",
+      "preco_fechamento": 424.01
+    },
+    {
+      "data": "2024-06-06T00:00:00",
+      "preco_fechamento": 424.52
+    },
+    {
+      "data": "2024-06-07T00:00:00",
+      "preco_fechamento": 423.85
+    },
+    {
+      "data": "2024-06-10T00:00:00",
+      "preco_fechamento": 427.87
+    },
+    {
+      "data": "2024-06-11T00:00:00",
+      "preco_fechamento": 432.68
+    },
+    {
+      "data": "2024-06-12T00:00:00",
+      "preco_fechamento": 441.06
+    },
+    {
+      "data": "2024-06-13T00:00:00",
+      "preco_fechamento": 441.58
+    },
+    {
+      "data": "2024-06-14T00:00:00",
+      "preco_fechamento": 442.57
+    },
+    {
+      "data": "2024-06-17T00:00:00",
+      "preco_fechamento": 448.37
+    },
+    {
+      "data": "2024-06-18T00:00:00",
+      "preco_fechamento": 446.34
+    },
+    {
+      "data": "2024-06-20T00:00:00",
+      "preco_fechamento": 445.7
+    },
+    {
+      "data": "2024-06-21T00:00:00",
+      "preco_fechamento": 449.78
+    },
+    {
+      "data": "2024-06-24T00:00:00",
+      "preco_fechamento": 447.67
+    },
+    {
+      "data": "2024-06-25T00:00:00",
+      "preco_fechamento": 450.95
+    },
+    {
+      "data": "2024-06-26T00:00:00",
+      "preco_fechamento": 452.16
+    },
+    {
+      "data": "2024-06-27T00:00:00",
+      "preco_fechamento": 452.85
+    },
+    {
+      "data": "2024-06-28T00:00:00",
+      "preco_fechamento": 446.95
+    },
+    {
+      "data": "2024-07-01T00:00:00",
+      "preco_fechamento": 456.73
+    },
+    {
+      "data": "2024-07-02T00:00:00",
+      "preco_fechamento": 459.28
+    },
+    {
+      "data": "2024-07-03T00:00:00",
+      "preco_fechamento": 460.77
+    },
+    {
+      "data": "2024-07-05T00:00:00",
+      "preco_fechamento": 467.56
+    },
+    {
+      "data": "2024-07-08T00:00:00",
+      "preco_fechamento": 466.24
+    },
+    {
+      "data": "2024-07-09T00:00:00",
+      "preco_fechamento": 459.54
+    },
+    {
+      "data": "2024-07-10T00:00:00",
+      "preco_fechamento": 466.25
+    },
+    {
+      "data": "2024-07-11T00:00:00",
+      "preco_fechamento": 454.7
+    },
+    {
+      "data": "2024-07-12T00:00:00",
+      "preco_fechamento": 453.55
+    }
+  ]
